@@ -1,0 +1,23 @@
+
+#header {
+    height: 400px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    font-family: Impact, Charcoal, sans-serif;
+}
+#logo {
+    position: relative;
+    height: 350px;
+    left: 26%;
+}
+#logo:hover {
+    transform: translateX(-800px) scale(0.3);
+    transition-duration: 0.8s;
+}
+p {
+    height: 4000px;
+}
